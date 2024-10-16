@@ -6,12 +6,12 @@
  - then merge the branch into the main branch.
 
 ## create new Repository Folder in Desktop
-   git init
-   git add README.md
-   git commit -m "first commit"
-   git branch -M main
-   git remote add origin https://github.com/Roksana18cse04/NodeJsLearn.git
-   git push -u origin main
+   - git init
+   - git add README.md
+   - git commit -m "first commit"
+   - git branch -M main
+   - git remote add origin https://github.com/Roksana18cse04/NodeJsLearn.git
+   - git push -u origin main
 
 
 ## Git Initialize Comand
