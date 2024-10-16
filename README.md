@@ -15,3 +15,13 @@
     git commit -m "first commit"
 ## Git Checkout New Branch Command
     git checkout -b <branch-name>
+
+## Git  Hidden File List Show
+    ls -h
+
+## Git  File List Show
+    ls
+
+
+## Git repository copy or Clone
+    git clone <repository-url>
