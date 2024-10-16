@@ -5,6 +5,15 @@
  - This script will create a new branch, make some changes, commit the changes, and
  - then merge the branch into the main branch.
 
+## create new Repository Folder in Desktop
+   git init
+   git add README.md
+   git commit -m "first commit"
+   git branch -M main
+   git remote add origin https://github.com/Roksana18cse04/NodeJsLearn.git
+   git push -u origin main
+
+
 ## Git Initialize Comand
     git init
 ## Git Add Remote Repository Command
